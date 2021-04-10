@@ -1,4 +1,8 @@
-### Hi there 👋
+# [Vudeam](https://github.com/vudeam)
+
+## Current job: MGUPI Industries
+![MGUPI](https://user-images.githubusercontent.com/62073166/114260609-b4cc2800-99de-11eb-9b88-5e0e4f2e46bd.png)
+
 
 <!--
 **vudeam/vudeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
